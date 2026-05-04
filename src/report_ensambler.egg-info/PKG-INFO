@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: report-ensambler
+Version: 0.2.0
+Summary: Generador de reportes PDF con plantillas TOML.
+Requires-Python: >=3.10
+Requires-Dist: tomli>=0.1
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: numpy>=1.24
+Requires-Dist: pandas>=2.0
+Requires-Dist: reportlab>=4.0
+Requires-Dist: svglib>=1.5
+Requires-Dist: pypdf>=4.0
+Provides-Extra: test
+Requires-Dist: pytest>=8.0; extra == "test"

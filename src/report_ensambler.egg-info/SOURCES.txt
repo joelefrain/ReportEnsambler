@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/report_ensambler/__init__.py
+src/report_ensambler/colors.py
+src/report_ensambler/config.py
+src/report_ensambler/examples.py
+src/report_ensambler/plotting.py
+src/report_ensambler/report.py
+src/report_ensambler.egg-info/PKG-INFO
+src/report_ensambler.egg-info/SOURCES.txt
+src/report_ensambler.egg-info/dependency_links.txt
+src/report_ensambler.egg-info/requires.txt
+src/report_ensambler.egg-info/top_level.txt
+tests/test_examples.py
